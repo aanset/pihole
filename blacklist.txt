@@ -1,3 +1,6 @@
+#List blocked domain by me
+#aanset [at] rasierp [dot] tech
+
 huami.com
 tiktok.com
 tiktokv.com
