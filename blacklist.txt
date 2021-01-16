@@ -12,3 +12,4 @@
 0.0.0.0 rbxcdn.com
 0.0.0.0 tensquaregames.com
 0.0.0.0 msgamestudios.com
+0.0.0.0 meizu.com
