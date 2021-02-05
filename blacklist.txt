@@ -14,3 +14,4 @@
 0.0.0.0 msgamestudios.com
 0.0.0.0 meizu.com
 0.0.0.0 tiktokcdn-in.com
+0.0.0.0 id-berita.com
