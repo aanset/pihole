@@ -6,6 +6,7 @@
 0.0.0.0 tiktok.com
 0.0.0.0 tiktokv.com
 0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokcdn-in.com
 0.0.0.0 transacme.com
 0.0.0.0 shalltry.com
 0.0.0.0 roblox.com
