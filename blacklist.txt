@@ -15,3 +15,5 @@
 0.0.0.0 meizu.com
 0.0.0.0 tiktokcdn-in.com
 0.0.0.0 id-berita.com
+0.0.0.0 baidu.co.th
+0.0.0.0 hao123.com
