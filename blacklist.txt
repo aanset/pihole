@@ -18,3 +18,8 @@
 0.0.0.0 id-berita.com
 0.0.0.0 baidu.co.th
 0.0.0.0 hao123.com
+0.0.0.0 bigo.tv
+0.0.0.0 bigo.sg
+0.0.0.0 like.video
+0.0.0.0 likee.video
+0.0.0.0 musical.ly
