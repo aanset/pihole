@@ -23,3 +23,4 @@
 0.0.0.0 like.video
 0.0.0.0 likee.video
 0.0.0.0 musical.ly
+0.0.0.0 bigolive.tv
