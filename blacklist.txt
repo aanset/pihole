@@ -65,3 +65,4 @@
 0.0.0.0 baidu.com
 0.0.0.0 kwai.net
 0.0.0.0 wechat.com
+0.0.0.0 weathercn.com
