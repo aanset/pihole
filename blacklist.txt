@@ -9,8 +9,6 @@
 0.0.0.0 tiktokcdn-in.com
 0.0.0.0 transacme.com
 0.0.0.0 shalltry.com
-0.0.0.0 roblox.com
-0.0.0.0 rbxcdn.com
 0.0.0.0 tensquaregames.com
 0.0.0.0 msgamestudios.com
 0.0.0.0 meizu.com
