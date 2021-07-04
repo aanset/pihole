@@ -63,3 +63,4 @@
 0.0.0.0 tiktokv.com
 0.0.0.0 ttoversea.net
 0.0.0.0 baidu.com
+0.0.0.0 kwai.net
