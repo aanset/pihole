@@ -66,3 +66,10 @@
 0.0.0.0 kwai.net
 0.0.0.0 wechat.com
 0.0.0.0 weathercn.com
+0.0.0.0 heytap.com
+0.0.0.0 heytapdl.com
+0.0.0.0 heytapdownload.com
+0.0.0.0 heytapimage.com
+0.0.0.0 heytapimg.com
+0.0.0.0 heytapmobi.com
+0.0.0.0 heytapmobile.com
