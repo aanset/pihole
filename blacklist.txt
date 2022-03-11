@@ -75,3 +75,4 @@
 0.0.0.0 heytapmobile.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 palmplaystore.com
+0.0.0.0 xiaomi.com
