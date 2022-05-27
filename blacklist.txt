@@ -1,5 +1,5 @@
 #List blocked domain by me
-#raspi [at] rasierp [dot] tech
+#raspi [at] anliagroup [dot] my [dot] id
 #=================================
 
 0.0.0.0 huami.com
@@ -76,3 +76,4 @@
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 palmplaystore.com
 0.0.0.0 xiaomi.com
+0.0.0.0 servicewebly.com
