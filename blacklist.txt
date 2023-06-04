@@ -86,3 +86,9 @@
 0.0.0.0 usxxtech.com
 0.0.0.0 alidns.com
 0.0.0.0 seva1.com
+0.0.0.0 bangcdn.net
+0.0.0.0 thefthing.com
+0.0.0.0 ketkp.com
+0.0.0.0 ivideosmart.com
+0.0.0.0 promo.okezone.com
+0.0.0.0 fdcollab.com
