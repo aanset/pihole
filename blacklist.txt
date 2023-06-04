@@ -77,3 +77,12 @@
 0.0.0.0 palmplaystore.com
 0.0.0.0 xiaomi.com
 0.0.0.0 servicewebly.com
+0.0.0.0 irl-api.twibida.com
+0.0.0.0 transacme.com
+0.0.0.0 lahuashanbx.com
+0.0.0.0 xshareapp.com
+0.0.0.0 hitopup100.com
+0.0.0.0 giiwifi.com
+0.0.0.0 usxxtech.com
+0.0.0.0 alidns.com
+0.0.0.0 seva1.com
