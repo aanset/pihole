@@ -98,7 +98,6 @@
 0.0.0.0 tiktokcdn.com
 0.0.0.0 tiktokv.com
 0.0.0.0 muscdn.com
-0.0.0.0 musical.ly
 0.0.0.0 musically.ly
 0.0.0.0 v16-tiktokcdn-com.akamaized.net
 0.0.0.0 p16-tiktokcdn-com.akamaized.net
@@ -120,9 +119,7 @@
 0.0.0.0 garena.com
 0.0.0.0 luxury138.link
 0.0.0.0 addthis.com
-0.0.0.0 promo.okezone.com
 0.0.0.0 gamesx.rctiplus.com
-0.0.0.0 thefthing.com
 0.0.0.0 ilovexclub.com
 0.0.0.0 tencent-cloud-gslb.com
 0.0.0.0 qcloud.com
@@ -133,4 +130,6 @@
 0.0.0.0 baca.co.id
 0.0.0.0 desty.market
 0.0.0.0 desty.page
+0.0.0.0 desty.app
 0.0.0.0 aliyuncs.com
+0.0.0.0 common.xshareapp.com
