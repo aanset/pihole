@@ -125,4 +125,12 @@
 0.0.0.0 thefthing.com
 0.0.0.0 ilovexclub.com
 0.0.0.0 tencent-cloud-gslb.com
-0.0.0.0 qcloud
+0.0.0.0 qcloud.com
+0.0.0.0 serasearchtop.com
+0.0.0.0 mcafee.com
+0.0.0.0 vod.insertlive.com
+0.0.0.0 heytapmobi.com
+0.0.0.0 baca.co.id
+0.0.0.0 desty.market
+0.0.0.0 desty.page
+0.0.0.0 aliyuncs.com
