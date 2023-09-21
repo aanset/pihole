@@ -1,5 +1,5 @@
 #List blocked domain by me
-#raspi [at] anliagroup [dot] my [dot] id
+#aanset [at] e [dot] email
 #=================================
 
 0.0.0.0 huami.com
@@ -117,3 +117,12 @@
 0.0.0.0 app.musemuse.cn
 0.0.0.0 share.musemuse.cn
 0.0.0.0 palm.tech
+0.0.0.0 garena.com
+0.0.0.0 luxury138.link
+0.0.0.0 addthis.com
+0.0.0.0 promo.okezone.com
+0.0.0.0 gamesx.rctiplus.com
+0.0.0.0 thefthing.com
+0.0.0.0 ilovexclub.com
+0.0.0.0 tencent-cloud-gslb.com
+0.0.0.0 qcloud
