@@ -136,3 +136,7 @@
 0.0.0.0 optinku.com
 0.0.0.0 palmst0re.com
 0.0.0.0 hitopup100.com
+0.0.0.0 qrco.de
+0.0.0.0 ivstracker.net
+0.0.0.0 hotel.web.id
+0.0.0.0 heytapmobile.com
