@@ -133,3 +133,6 @@
 0.0.0.0 desty.app
 0.0.0.0 aliyuncs.com
 0.0.0.0 common.xshareapp.com
+0.0.0.0 optinku.com
+0.0.0.0 palmst0re.com
+0.0.0.0 hitopup100.com
