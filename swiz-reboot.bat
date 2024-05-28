@@ -1,5 +1,5 @@
 @ECHO Off
-    SET /P yesno=Do you want to Reboot this machine? [Y/N]:
+    SET /P yesno=This computer will be reboot in 5 minutes. Do you want to Proceed? [Y/N]:
     IF "%yesno%"=="y" GOTO Confirmation
     IF "%yesno%"=="Y" GOTO Confirmation
     IF "%yesno%"=="n" GOTO End
@@ -7,7 +7,7 @@
     
     :Confirmation
     ECHO System is going to Reboot now
-    shutdown.exe -r -t 60 
+    shutdown.exe -r -t 600
     GOTO EOF
     
     :End
