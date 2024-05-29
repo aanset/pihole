@@ -7,7 +7,7 @@
     
     :Confirmation
     ECHO System is going to Reboot now
-    shutdown.exe -r -t 600
+    shutdown.exe -r -t 300
     GOTO EOF
     
     :End
