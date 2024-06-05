@@ -14,7 +14,7 @@ SET /P yesno=Hello, this is part of weekly maintenance. This computer will resta
     GOTO EOF   
     
 :End
-    ECHO System Reboot cancelled. we will remind you in 10 minutes.
+    ECHO System Reboot cancelled. We will remind you in 10 minutes.
     TIMEOUT 600
     SET /P yesno=This computer will restart in 5 minutes. Do you want to Proceed? [Y/N]:
     IF "%yesno%"=="y" GOTO Confirmation
@@ -23,7 +23,7 @@ SET /P yesno=Hello, this is part of weekly maintenance. This computer will resta
     IF "%yesno%"=="N" GOTO End2
 
 :End2
-    ECHO System Reboot cancelled. we will remind you in 10 minutes.
+    ECHO System Reboot cancelled. We will remind you in 10 minutes.
     TIMEOUT 600
     SET /P yesno=This computer will restart in 5 minutes. Do you want to Proceed? [Y/N]:
     IF "%yesno%"=="y" GOTO Confirmation
