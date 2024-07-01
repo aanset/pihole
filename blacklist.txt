@@ -141,3 +141,4 @@
 0.0.0.0 hotel.web.id
 0.0.0.0 heytapmobile.com
 0.0.0.0 jixie.io
+0.0.0.0 oval.id
