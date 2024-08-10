@@ -142,3 +142,11 @@
 0.0.0.0 heytapmobile.com
 0.0.0.0 jixie.io
 0.0.0.0 oval.id
+0.0.0.0 6827-update.team.com
+0.0.0.0 usaa.com
+0.0.0.0 dubshub.com
+0.0.0.0 mrperfect.in
+0.0.0.0 33mail.com
+0.0.0.0 esputnik.com
+0.0.0.0 fdske.com
+0.0.0.0 links.skillbox.ru
